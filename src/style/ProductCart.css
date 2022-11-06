@@ -1,0 +1,29 @@
+.product-cart {
+    width: 31%;
+    box-shadow: 0 0.4rem 0.8rem 0 rgb(0 0 0 / 8%);
+    margin-top: 1.6rem;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product__name{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    height: 20%;
+}
+
+.product__image{
+    display: flex;
+    justify-content: center;
+    height: 70%;
+}
+
+.product__image > img {
+    max-width: 50%;
+}
+
+.product__price{
+
+}

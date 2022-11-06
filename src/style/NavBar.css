@@ -1,0 +1,27 @@
+.nav__link {
+    list-style: none;
+}
+
+.nav {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    height: 200px;
+}
+
+
+
+.nav__links {
+    font-size: 28px;
+    margin-left: auto;
+    margin-right: 10rem;
+}
+
+
+.nav__links > ul {
+    display: flex;
+}
+
+.nav__links > ul > li {
+    margin-left: 5rem;
+}

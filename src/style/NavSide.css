@@ -1,0 +1,16 @@
+.navside{
+    width: 30%;
+
+    margin-top: 5.6rem;
+    display: flex;
+    padding: 1.6rem;
+    flex-direction: column;
+    background-color: white;
+    height: 100%;
+}
+
+.search > input{
+    width: 100%;
+    height: 3rem;
+    border-radius: 1rem;
+}
